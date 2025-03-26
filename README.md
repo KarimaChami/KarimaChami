@@ -20,4 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zweena-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact  
-🔗 [LinkedIn]([https://linkedin.com/in/zweena-dev](https://www.linkedin.com/in/karima-chami-1a7b74283/)) | ✉️ [Email](karimachami24@gmail.com) | 🌐 [Portfolio](https://zweena.dev)
+🔗 [LinkedIn]((https://www.linkedin.com/in/karima-chami-1a7b74283/)) | ✉️ [Email](karimachami24@gmail.com) | 🌐 [Portfolio](https://zweena.dev)

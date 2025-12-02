@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Karima!  
 💻 Full Stack Developer | Laravel, React & Web Enthusiast  
 
-![Banner](https://imgur.com/exemple.png)  
-
 ## 🚀 About Me  
 - 🎓 **Formation** : Technicienne Spécialisée en Développement Digital  
 - 🌍 **Langues** : Français, Arabe, Anglais

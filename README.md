@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&height=220&section=header&text=Karima%20Chami&desc=AI%20%26%20MLOps%20Engineer&fontSize=68&descSize=22&animation=fadeIn&fontAlignY=36&descAlignY=60&color=gradient&customColorList=14,17,19,20" />
 
   <h1> AI & Full Stack Developer </h1>
 

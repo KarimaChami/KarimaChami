@@ -1,30 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&height=200&section=header&text=Karima%20Chami&fontSize=70&animation=fadeIn&fontAlignY=38&color=FF69B4" />
-
-
-  <h2>AI Engineer · MLOps · Full Stack Developer</h2>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=600&lines=Building+AI-powered+applications;RAG+Systems+%7C+MLOps+Pipelines+%7C+Full+Stack;From+Data+to+Production" />
-  </p>
-
-  <br/>
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I am an **AI & Full Stack Developer** specialized in building **end-to-end intelligent systems**, from data ingestion to scalable deployment.  
-Currently training with **Simplon & JobInTech**, I focus on **MLOps, Data Engineering, and AI-driven applications**.
-
-**What I do best:**
-- Design and implement **RAG (Retrieval-Augmented Generation) architectures**
-- Build and automate **ML pipelines** with monitoring and experiment tracking
-- Develop **scalable APIs and full-stack applications**
-- Deploy production-ready solutions using **Docker & Kubernetes**
-
----
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Karima%20Chami&fontSize=70&animation=fadeIn&fontAlignY=38&theme=rose_pine" /> 
+  <h1> AI & Full Stack Developer </h1> 
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Passionn%C3%A9e+par+l'IA+et+le+Web;Sp%C3%A9cialiste+Simplon+%26+JobInTech;MLOps+%7C+Full+Stack+%7C+Data+Engineering" alt="Typing SVG" /> 
+  </p> --- </div> 
+  ### 🚀 À propos de moi Je suis une développeuse **AI & Full Stack** passionnée par l'intersection entre le développement web moderne et l'intelligence artificielle. Actuellement en formation intensive avec **Simplon & JobInTech**, je perfectionne mes compétences en Data Engineering et MLOps.
+  - 🌸 **Focus actuel** : Architecture RAG et automatisation de pipelines ML. 
+  - 🦋 **Ma philosophie** : Allier l'esthétique du code à la puissance de la data. 
+  - 💼 **Soft Skills** : Résolution de problèmes, Agilité, et Travail collaboratif sous pression. ---
 
 ## 🧠 AI, MLOps & Data Engineering
 <p align="left">

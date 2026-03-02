@@ -3,7 +3,7 @@
   <h1> AI & Full Stack Developer </h1>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Passionn%C3%A9e+par+l'IA+et+le+Web;Sp%C3%A9cialiste+Simplon+%26+JobInTech;MLOps+%7C+Full+Stack+%7C+Data+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Passionn%C3%A9e+par+l'IA+et+le+Web;;MLOps+%7C+Full+Stack+%7C+Data+Engineering" alt="Typing SVG" />
   </p>
 
   ---
